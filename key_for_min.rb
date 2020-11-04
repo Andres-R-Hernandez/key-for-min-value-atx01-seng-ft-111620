@@ -3,7 +3,7 @@
 
 def key_for_min_value(name_hash)
   count = 0
-  min_value_key =
+  min_value_key = 
   if name_hash.is_empty?
     min_value_key = nil
   else
